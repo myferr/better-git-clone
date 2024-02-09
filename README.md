@@ -41,4 +41,5 @@ git clone https://github.com/myferr/better-git-clone/
 ```
 
 ——————————————————————————
+
 [GIT_IS_REQUIRED](src/GIT_IS_REQUIRED.md)
